@@ -1,5 +1,9 @@
-<div align="center"> <img height="150" src="https://media.tenor.com/JIKo7oLJ8U8AAAAC/dipjol-bangla-cinema.gif"/> 
+<div align="center"> <img height="150" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"/> 
 </div> 
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=prottasha19&label=Profile%20views&color=0e75b6&style=flat" alt="prottasha19" /> </p> 
+
 
 # 💫 About Me:
 👋 Hi, I’m Prottasha a VLSI/Hadware designer and programmer.<br>👀 My coding preferences are VHDL, Verilog, C, C++, Python, Java & Flutter.<br>🌱 I’m currently upgrading myself by learning Cadence and doing research about SoC.<br>💞️ I’m looking to collaborate for System on chip, FPGA, VLSI development, image processing and AI.<br>📫 How to reach me: prottashaghosh@gmail.com
@@ -35,8 +39,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Prottasha19&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Prottasha19&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
